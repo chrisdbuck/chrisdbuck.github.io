@@ -4,10 +4,8 @@ title: Web Scraping Exchange Rates
 date: 2025-04-06 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: hmrc.png # Add image post (optional)
-tags: [Web-Scraping, Beautiful-Soup, Python] # add tag
+tags: [Web Scraping, Beautiful Soup, Python] # add tag
 ---
-# Web Scraping HMRC USD/GBP Exchange Rates
-
 When I report US income for UK taxes, I need to convert the dollar amounts to pounds using the official monthly exchange rates published by HMRC. Each exchange rate is on a different webpage, so retrieving a year’s worth of exchange rates can be time consuming. To solve this problem I use these Python functions that harness the power of Beautiful Soup to scrape the relevant exchange rates from the webpages for a given time period. The results are saved in a csv file so they can be used to calculate the pound of equivalent of dollar-based income in a spreadsheet.
 
 ## Libraries
