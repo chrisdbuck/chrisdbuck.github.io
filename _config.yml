@@ -20,6 +20,15 @@ social-github: chrisdbuck # add your Github handle
 social-linkedin: christopher-buck-3738b627
 social-email: chris.downey.buck@gmail.com
 
+# Menu Settings
+menu:
+  - title: Home
+    url: /
+  - title: Bio
+    url: /bio/
+  - title: CV
+    url: /cv/
+
 # Disqus
 discus-identifier:  # add your discus identifier
 
