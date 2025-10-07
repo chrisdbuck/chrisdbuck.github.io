@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Scraping | Chris Buck</title>
+    <link>https://chrisdbuck.github.io/tag/web-scraping/</link>
+      <atom:link href="https://chrisdbuck.github.io/tag/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web Scraping</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chrisdbuck.github.io/media/icon_hu_3b907704ca6c0d97.png</url>
+      <title>Web Scraping</title>
+      <link>https://chrisdbuck.github.io/tag/web-scraping/</link>
+    </image>
+    
+    <item>
+      <title>Scraping Exchange Rates from HMRC Webpages</title>
+      <link>https://chrisdbuck.github.io/project/hmrc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://chrisdbuck.github.io/project/hmrc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

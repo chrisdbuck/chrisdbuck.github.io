@@ -1,0 +1,18 @@
+{
+  "name": "Chris Buck",
+  "short_name": "Chris Buck",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/media/icon_hu_75c612c6a6b61324.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu_3b907704ca6c0d97.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

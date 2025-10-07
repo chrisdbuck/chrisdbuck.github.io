@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://chrisdbuck.github.io/sitemap.xml
