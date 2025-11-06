@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python | Chris Buck</title>
-    <link>https://chrisdbuck.github.io/tag/python/</link>
-      <atom:link href="https://chrisdbuck.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/python/</link>
+      <atom:link href="http://localhost:1313/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chrisdbuck.github.io/media/icon_hu_3b907704ca6c0d97.png</url>
+      <url>http://localhost:1313/media/icon_hu_3b907704ca6c0d97.png</url>
       <title>Python</title>
-      <link>https://chrisdbuck.github.io/tag/python/</link>
+      <link>http://localhost:1313/tag/python/</link>
     </image>
     
     <item>
       <title>Predictive Analytics to Optimise a Loyalty Rewards Programme</title>
-      <link>https://chrisdbuck.github.io/project/turtle_games/</link>
+      <link>http://localhost:1313/project/turtle_games/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://chrisdbuck.github.io/project/turtle_games/</guid>
+      <guid>http://localhost:1313/project/turtle_games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagnostic Analytics to Address Missed GP Appointments for NHS England</title>
-      <link>https://chrisdbuck.github.io/project/nhs/</link>
+      <link>http://localhost:1313/project/nhs/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://chrisdbuck.github.io/project/nhs/</guid>
+      <guid>http://localhost:1313/project/nhs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scraping Exchange Rates from HMRC Webpages</title>
-      <link>https://chrisdbuck.github.io/project/hmrc/</link>
+      <link>http://localhost:1313/project/hmrc/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://chrisdbuck.github.io/project/hmrc/</guid>
+      <guid>http://localhost:1313/project/hmrc/</guid>
       <description></description>
     </item>
     
