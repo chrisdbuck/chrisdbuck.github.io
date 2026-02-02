@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tableau | Chris Buck</title>
-    <link>http://localhost:1313/tag/tableau/</link>
-      <atom:link href="http://localhost:1313/tag/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chrisdbuck.github.io/tag/tableau/</link>
+      <atom:link href="https://chrisdbuck.github.io/tag/tableau/index.xml" rel="self" type="application/rss+xml" />
     <description>Tableau</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_3b907704ca6c0d97.png</url>
+      <url>https://chrisdbuck.github.io/media/icon_hu_3b907704ca6c0d97.png</url>
       <title>Tableau</title>
-      <link>http://localhost:1313/tag/tableau/</link>
+      <link>https://chrisdbuck.github.io/tag/tableau/</link>
     </image>
     
     <item>
       <title>Descriptive Analytics for a Targeted Advertising Campaign</title>
-      <link>http://localhost:1313/project/2market/</link>
+      <link>https://chrisdbuck.github.io/project/2market/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/2market/</guid>
+      <guid>https://chrisdbuck.github.io/project/2market/</guid>
       <description></description>
     </item>
     

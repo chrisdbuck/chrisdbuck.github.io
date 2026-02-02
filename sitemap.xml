@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://chrisdbuck.github.io/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/ml/</loc>
+    <loc>https://chrisdbuck.github.io/tag/ml/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/nlp/</loc>
+    <loc>https://chrisdbuck.github.io/tag/nlp/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/turtle_games/</loc>
+    <loc>https://chrisdbuck.github.io/project/turtle_games/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://chrisdbuck.github.io/project/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/python/</loc>
+    <loc>https://chrisdbuck.github.io/tag/python/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/r/</loc>
+    <loc>https://chrisdbuck.github.io/tag/r/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://chrisdbuck.github.io/tags/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/nhs/</loc>
+    <loc>https://chrisdbuck.github.io/project/nhs/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/2market/</loc>
+    <loc>https://chrisdbuck.github.io/project/2market/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/excel/</loc>
+    <loc>https://chrisdbuck.github.io/tag/excel/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/hmrc/</loc>
+    <loc>https://chrisdbuck.github.io/project/hmrc/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/sql/</loc>
+    <loc>https://chrisdbuck.github.io/tag/sql/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/tableau/</loc>
+    <loc>https://chrisdbuck.github.io/tag/tableau/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/web-scraping/</loc>
+    <loc>https://chrisdbuck.github.io/tag/web-scraping/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://chrisdbuck.github.io/about/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://chrisdbuck.github.io/contact/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>https://chrisdbuck.github.io/cv/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://chrisdbuck.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

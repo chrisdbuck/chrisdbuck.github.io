@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ML | Chris Buck</title>
-    <link>http://localhost:1313/tag/ml/</link>
-      <atom:link href="http://localhost:1313/tag/ml/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chrisdbuck.github.io/tag/ml/</link>
+      <atom:link href="https://chrisdbuck.github.io/tag/ml/index.xml" rel="self" type="application/rss+xml" />
     <description>ML</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_3b907704ca6c0d97.png</url>
+      <url>https://chrisdbuck.github.io/media/icon_hu_3b907704ca6c0d97.png</url>
       <title>ML</title>
-      <link>http://localhost:1313/tag/ml/</link>
+      <link>https://chrisdbuck.github.io/tag/ml/</link>
     </image>
     
     <item>
       <title>Predictive Analytics to Optimise a Loyalty Rewards Programme</title>
-      <link>http://localhost:1313/project/turtle_games/</link>
+      <link>https://chrisdbuck.github.io/project/turtle_games/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/turtle_games/</guid>
+      <guid>https://chrisdbuck.github.io/project/turtle_games/</guid>
       <description></description>
     </item>
     
